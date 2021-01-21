@@ -1,2 +1,6 @@
 9 * 5
-35 + 46
+45 * 45
+#division
+60/60
+# subtraction
+10-5
